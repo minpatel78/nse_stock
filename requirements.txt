@@ -1,0 +1,2 @@
+streamlit==1.25.0  # (or the latest version)
+yfinance==0.2.18   # (or the latest version)
